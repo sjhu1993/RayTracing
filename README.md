@@ -1,2 +1,1 @@
-# HuChristmas.github.io
-MyBlog
+Ray Tracing
